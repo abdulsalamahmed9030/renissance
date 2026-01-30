@@ -35,9 +35,7 @@ const Gallery = () => {
       <div className="container-executive">
         {/* Header */}
         <div className="text-center max-w-2xl mx-auto mb-16 md:mb-20">
-          <span className="text-xs font-medium tracking-widest uppercase text-muted-foreground mb-4 block">
-            Our Portfolio
-          </span>
+         
           <h2 className="heading-editorial text-foreground mb-6">
             Selected Work
           </h2>
