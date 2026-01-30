@@ -89,7 +89,7 @@ const Header = () => {
                 style={{ letterSpacing: "0.08em" }}
               >
                 {link.label}
-              </a>
+              </a> 
             ))}
             <a
               href="#contact"
