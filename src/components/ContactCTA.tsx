@@ -1,6 +1,11 @@
 const ContactCTA = () => {
   return (
-    <section id="contact" className="section-padding bg-primary">
+    <section
+  id="contact"
+  className="section-padding"
+  style={{ backgroundColor: "#395eb1" }}
+>
+
       <div className="container-executive">
         <div className="max-w-3xl mx-auto text-center">
           

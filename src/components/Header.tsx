@@ -30,14 +30,14 @@ const Header = () => {
       }`}
     >
       <div className="container-executive">
-        <div className="flex items-center justify-between h-20 md:h-24">
+        <div className="flex items-center justify-between h-20 md:h-30">
           
           {/* Logo */}
           <a href="#home" className="flex items-center">
             <img
               src={isScrolled ? "/1.jpeg" : "/logo.png"}
               alt="Meridian Events"
-              className="h-20 md:h-20 w-auto transition-all duration-300"
+              className="h-20 md:h-30 w-auto transition-all duration-300 pt-4"
             />
           </a>
 
